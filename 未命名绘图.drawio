@@ -19,6 +19,9 @@
         <mxCell id="Ri3onuAT8e8NKDG9h0lA-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
           <mxGeometry height="60" width="30" x="430" y="160" as="geometry" />
         </mxCell>
+        <mxCell id="Ri3onuAT8e8NKDG9h0lA-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
